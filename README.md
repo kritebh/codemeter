@@ -45,4 +45,6 @@ codemeter
 codemeter . --skip-dir node_modules .git
 ```
 
+!["codemeter"](./screenshot.jpg)
+
 This command will analyze the current directory while skipping the `node_modules` and `.git` directory
