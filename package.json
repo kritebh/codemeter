@@ -1,0 +1,32 @@
+{
+    "name": "codemeter",
+    "homepage": "https://github.com/kritebh/codemeter",
+    "author": {
+      "name": "Kritebh Lagan Bibhakar",
+      "url": "https://github.com/kritebh"
+    },
+    "bin": {
+      "codemeter": "./bin/index.js"
+    },
+    "engines": {
+      "node": ">=16"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/kritebh/codemeter.git"
+    },
+    "description": "A CLI tool for code analysis. Counts lines and files",
+    "keywords": [
+      "cli",
+      "count line",
+      "count lines of code",
+      "lines of code",
+      "loc",
+      "cli tool",
+      "terminal"
+    ],
+    "license": "MIT",
+  "dependencies": {
+    "cli-table3": "^0.6.3"
+  }
+}
