@@ -31,14 +31,6 @@ This command will exclude the `node_modules` directory from the analysis.
 
 **Note:** Please provide the directory name without the "./" prefix. For example, use `folder_name` instead of `./folder_name/`.
 
-### Defaults
-
-If no arguments are provided, CodeMeter will default to analyzing the current directory:
-
-```bash
-codemeter
-```
-
 ## Example
 
 ```bash
