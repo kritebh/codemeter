@@ -5,7 +5,7 @@
     "name": "Kritebh Lagan Bibhakar",
     "url": "https://github.com/kritebh"
   },
-  "version": "0.0.1",
+  "version": "0.0.2",
   "bin": {
     "codemeter": "./bin/index.js"
   },
